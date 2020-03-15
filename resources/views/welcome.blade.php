@@ -1038,7 +1038,7 @@
             </g>
             </svg>
             </div>
-            <p class="-fs16 -c-black -mb0 -tac -lh100">Files and Reports</p>
+            <p class="-fs16 -c-black -mb0 -tac -lh100">Files and Reports/</p>
             </div>
             </div>
             </div>
